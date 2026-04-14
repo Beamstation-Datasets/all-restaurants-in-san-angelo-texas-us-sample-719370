@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for San Angelo, Texas. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in San Angelo, Texas, US",
+  "export_job_id": "03fc7721-9f74-4ad2-ac0d-a92e5290a275",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 719370,
+  "location_name": "San Angelo",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-san-angelo-texas-us-sample-719370",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/719370/beamstation_719370_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 14.29,
+  "sample_records": 16,
+  "sample_sha256": "3dd3d178b763291d07e1d26b4ab1a50b5e38373adb5f6e7bd1c853fafffb0667",
+  "sample_size_bytes": 68152,
+  "total_records": 112,
+  "updated_at": "2026-03-31T14:50:08.226406+00:00"
+}

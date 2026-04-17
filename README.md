@@ -9,9 +9,9 @@
 | Dataset ID | `719370` |
 | Location | San Angelo |
 | Category | Restaurants |
-| Full dataset size | 112 records |
-| Free sample size | 16 records (14.29%) |
-| Last export | 2026-03-31T14:50:08.226406+00:00 |
+| Full dataset size | 163 records |
+| Free sample size | 16 records (9.82%) |
+| Last export | 2026-04-14T15:23:13.961916+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-angelo-texas-us-sample-719370/releases/download/sample-latest/beamstation_719370_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample

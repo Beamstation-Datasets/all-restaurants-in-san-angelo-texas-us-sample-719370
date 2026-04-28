@@ -1,12 +1,12 @@
 {
-  "export_job_id": "75764095-0cc2-47bb-89ee-113fa18890d2",
+  "export_job_id": "2f9c4d9c-121a-4e39-bb54-c7e817f0f9fa",
   "id_short": 719370,
-  "published_at": "2026-04-21T19:44:59Z",
+  "published_at": "2026-04-28T19:26:02Z",
   "repo_name": "all-restaurants-in-san-angelo-texas-us-sample-719370",
   "sample_asset_name": "beamstation_719370_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/719370/beamstation_719370_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "81651f72357414346f39fadb388a842ddf4b6fd7d8968e662ed52fbd7411ec89",
-  "sample_size_bytes": 56344,
-  "total_records": 136
+  "sample_records": 12,
+  "sample_sha256": "37a04787922457e7d26c0065a4092b4623d259173f288090cacd751bdddea310",
+  "sample_size_bytes": 53638,
+  "total_records": 122
 }
